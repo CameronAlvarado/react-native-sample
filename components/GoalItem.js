@@ -32,6 +32,8 @@ const styles = StyleSheet.create({
   text: {
     color: "white",
   },
+
+  // commenting
 });
 
 export default GoalItem;
