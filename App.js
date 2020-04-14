@@ -39,7 +39,6 @@ export default function App() {
         visible={addMode}
         addGoal={addGoalHandler}
         input={inputHandler}
-        visible={addMode}
         onCancel={cancelGoal}
         enteredGoal={enteredGoal}
         setEnteredGoal={setEnteredGoal}

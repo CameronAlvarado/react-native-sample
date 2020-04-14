@@ -22,7 +22,6 @@ const GoalItem = (props) => {
 
 const styles = StyleSheet.create({
   list: {
-    backgroundColor: "lightgrey",
     borderWidth: 1,
     borderColor: "dodgerblue",
     padding: 10,
